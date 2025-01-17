@@ -1,6 +1,6 @@
 # Amazon Sales Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : 
 
 ## Problem Statement
 
@@ -80,7 +80,7 @@ Step 8: Iterate and Enhance
 - Gather feedback from stakeholders.  
 - Refine the dashboards based on their needs.  
 - Plan for future enhancements, like real-time data integration or predictive analytics.
-  [Image](https://github.com/user-attachments/assets/28acd02e-03d8-4e0c-8536-c59fe33536f2)
+  ![Image](https://github.com/user-attachments/assets/28acd02e-03d8-4e0c-8536-c59fe33536f2)
   
 
 
