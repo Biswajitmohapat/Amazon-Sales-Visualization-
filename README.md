@@ -80,8 +80,7 @@ Step 8: Iterate and Enhance
 - Gather feedback from stakeholders.  
 - Refine the dashboards based on their needs.  
 - Plan for future enhancements, like real-time data integration or predictive analytics.
-  ![Image](https://github.com/user-attachments/assets/28acd02e-03d8-4e0c-8536-c59fe33536f2)
-  
+![Image](https://github.com/user-attachments/assets/2e1185ae-7588-4ad9-a8dd-fbfd93d0c567)  
 
 
 
